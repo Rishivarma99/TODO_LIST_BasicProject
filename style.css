@@ -1,0 +1,48 @@
+
+h1 , h2{
+    text-align: center;
+    color: red;
+}
+
+#main{
+    /* text-align: center; */
+    background-color: azure;
+    color: black;
+    margin-top: 30px;
+    height: 500px;
+    font-size: 25px;
+}
+
+#input-bar {
+    text-align: center;
+}
+
+#input-bar input{
+    font-size: 1rem;
+
+}
+#input-bar button{
+    font-size: 1rem;
+
+}
+ul{
+    padding: 0px;
+}
+li{
+    cursor: pointer;
+    list-style: none;
+    width: 90%;
+    margin: 2px auto;
+    
+}
+li span {
+    display: inline-block;
+    width: 70%;
+   
+
+}
+ li button {
+    /* float: right; */
+    font-size: 1rem;
+
+ }
